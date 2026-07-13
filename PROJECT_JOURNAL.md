@@ -11,7 +11,20 @@
 - text-center
 
 ## Challenges
-(Write anything you found difficult.)
+(Nothing really difficult, it was really fun to understand)
 
 ## Questions
-(Write anything you're still unsure about.)
+(No questions for now.)
+
+# Day 2
+
+## New HTML tags Learned
+- Section
+- Main
+
+## Difference Between Flexbox and Grid?
+- Flexbox : One Dimension
+- Grid : Two Dimension
+
+## Importance Of Semantic HTML
+- It Allows Developers Understand What They Coding
